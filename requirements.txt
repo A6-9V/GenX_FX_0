@@ -89,3 +89,4 @@ httpx>=0.28.0
 
 # Web server support for health checks
 # No additional web framework needed, using built-in http.server
+dnspython>=2.0.0
